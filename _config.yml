@@ -31,7 +31,7 @@ defaults:
     layout: "post"
 
 
-permalink: 'pretty'
+permalink: ':year/:month/:day/:title.html'
 
 # kramdown:
 #       syntax_highlighter: 'rouge'
@@ -39,3 +39,10 @@ permalink: 'pretty'
 
 # kramdown:
 #   input: GFM      
+
+gems: 
+  - jekyll-archives
+
+
+jekyll-archives:
+    enabled: ['categories', 'year']
