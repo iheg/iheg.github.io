@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 何刚 Web前端简历
-permalink: /resume/
+title: 
+permalink: /ab/
 ---
 # 何刚
 
