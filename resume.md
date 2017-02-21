@@ -1,9 +1,8 @@
 ---
 layout: page
-title: 
-permalink: /ab/
+title: 何刚
+permalink: /resume/
 ---
-# 何刚
 
 + 期望职位: Web前端工程师
 + 1991年／5年工作经验
